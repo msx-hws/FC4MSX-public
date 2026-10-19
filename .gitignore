@@ -24,3 +24,4 @@ Thumbs.db
 # Internal planning and specifications (never commit to remote)
 openspec/
 .openspec/
+*.[sS][cC][aA][dD]
