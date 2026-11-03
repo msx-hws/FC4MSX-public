@@ -8,6 +8,12 @@ Floppy Disk Controller cartridge for MSX computers based on the Talent TDC-600 d
 | :---: | :---: | :---: |
 | ![FC4MSX 3D View](images/pcb-3d.png) | ![FC4MSX Top View](images/pcb-top.png) | ![FC4MSX Bottom View](images/pcb-bottom.png) |
 
+## Where to Buy
+
+Ready-built cartridges and bare PCBs are available at MSX Hardware Store:
+- 🛒 **Complete Cartridge:** [FC4MSX Floppy Disk Controller Cartridge](https://msx-hws.nl/cartridges/fc4msx-floppy-disk-controller)
+- 🛠️ **Bare PCB:** [FC4MSX Floppy Disk Controller PCB](https://msx-hws.nl/pcbs/pcb-fc4msx-floppy-disk-controller)
+
 ## Features
 
 - Standard MSX 50-pin cartridge slot form factor (compatible with MSX, MSX2, MSX2+, turboR).
@@ -21,6 +27,8 @@ Floppy Disk Controller cartridge for MSX computers based on the Talent TDC-600 d
 Ready-to-order Gerbers are available in the [releases](releases/) directory:
 - Production package: [FC4MSX-Gerbers-v1.0.3.zip](releases/FC4MSX-Gerbers-v1.0.3.zip)
 - Previous releases: [releases/](releases/)
+
+*(If you prefer not to order a batch of PCBs from a fab house, bare PCBs can be purchased individually at [msx-hws.nl](https://msx-hws.nl/pcbs/pcb-fc4msx-floppy-disk-controller).)*
 
 Recommended fabrication parameters:
 - Layers: 2
